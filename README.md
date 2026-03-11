@@ -12,3 +12,12 @@ Herramientas:SQL Server (Vistas y ETL), Power BI (DAX & Data Modeling).
 Complejidad: Mid-size dataset 
 Cardinalidad 1:N 
 Compresión: Rendimiento fluido del motor VertiPaq.
+
+## Analisis de Contoso
+Core: 
+   Contoso vende productos electrónicos (computadoras, cámaras, TV, juegos) 
+   Canales de venta principales:
+      Tiendas físicas (Stores)
+      Venta Online (E-commerce)
+      Catálogo (Resellers)
+
