@@ -31,3 +31,9 @@ Dim Tables:
   DimCustomer (Datos demográficos de los clientes)
   DimDate (Datos tiempo)
 
+## Modelado en PBI
+Modelado en PBI
+Se adjunta Modelado 
+
+
+
