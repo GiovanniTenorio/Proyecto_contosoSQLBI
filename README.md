@@ -20,4 +20,14 @@ Core:
       Tiendas físicas (Stores)
       Venta Online (E-commerce)
       Catálogo (Resellers)
+## Estructura de Tablas analizadas
+Fact Tables : 
+  FactSales (Ventas en tiendas)
+  FactOnlineSales (Ventas por internet) 
+  FactInventory (Movimientos de stock)
+Dim Tables: 
+  DimProduct (Categorías, subcategorías y nombres de productos)
+  DimStore (Ubicación geográfica, tamaño de la tienda y tipo)
+  DimCustomer (Datos demográficos de los clientes)
+  DimDate (Datos tiempo)
 
