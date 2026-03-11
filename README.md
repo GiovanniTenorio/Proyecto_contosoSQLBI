@@ -31,9 +31,19 @@ Dim Tables:
   DimCustomer (Datos demográficos de los clientes)
   DimDate (Datos tiempo)
 
+## Adicion de Vistas a PBI
+Se adiciona las Vistas creadas a Power BI
+select * from vw_Inventory_PBI
+select * from vw_Ventas_PBI1
+select * from vw_Ventas_PBI2
+select * from vw_DimProducto_PBI
+select * from vw_DimTienda_PBI
+select * from vw_DimFecha_PBI
+
 ## Modelado en PBI
 Modelado en PBI
 Se adjunta Modelado 
+
 
 
 
